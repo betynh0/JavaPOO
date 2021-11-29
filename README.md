@@ -1,2 +1,2 @@
 # JavaPOO
-Trabalhos feitos para a universidade
+Trabalho feito para a universidade
